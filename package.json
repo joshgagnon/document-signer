@@ -27,7 +27,7 @@
     "extract-text-webpack-plugin": "^2.1.0",
     "font-awesome": "^4.7.0",
     "history": "^4.6.3",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "pdfjs-dist": "^1.8.593",
     "raven-js": "^3.17.0",
     "rc-slider": "^8.3.1",
